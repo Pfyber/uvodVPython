@@ -87,3 +87,12 @@ print(kepica * cena)
 # Program vrne koliko sekund je minilo od polnoči (24 urni čas)
 
 #https://github.com/Pfyber/uvodVPython
+
+
+ure = int(input("Koliko je ura?"))
+minute = int(input("Koliko je minut?"))
+
+
+sekunde = (ure * 60 * 60) + (minute * 60)
+
+print(sekunde)
