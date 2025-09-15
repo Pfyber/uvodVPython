@@ -85,3 +85,5 @@ print(kepica * cena)
 
 # Program vpraša po trenutni uri in minuti
 # Program vrne koliko sekund je minilo od polnoči (24 urni čas)
+
+#https://github.com/Pfyber/uvodVPython
