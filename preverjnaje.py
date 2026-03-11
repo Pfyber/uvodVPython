@@ -95,3 +95,4 @@ for o in ocene:
 
 poprecje = sestevek/st_elem
 print(poz, neg, max_ocena, poprecje)
+#https://github.com/Pfyber/uvodVPython
